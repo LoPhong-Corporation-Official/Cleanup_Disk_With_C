@@ -1,3 +1,4 @@
+// Code created by LoPhong Corporation
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
@@ -69,7 +70,8 @@ void cleanup() {
 }
 
 int main() {
-    printf("Press key 'S' to start cleanup");
+    
+    printf("Press key 'S' to start cleanup\n");
     while (1) {
         if (GetAsyncKeyState('S') & 0x8000) {
             printf("Starting cleanup...\n");
@@ -77,7 +79,7 @@ int main() {
         } else if (GetAsyncKeyState('E') & 0x8000) {
             Sleep(1000); // Đợi 1000ms trước khi exit
             printf("Exit this tool.\n");
-            printf("Thank you to using this tool.");
+            printf("Thank you to using this tool.\n");
             break;
         }
         if (GetAsyncKeyState('P') & 0x8000) {
