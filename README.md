@@ -8,4 +8,8 @@ VERSION 4 UPDATE:
 PREVIEW VERSION 4.5 UPDATE:
  -ADD MONITORING CPU, RAM WITH REALTIME
  -FIX MENU
+
+
+
+ 
 This is a tool I quickly coded so there will be many bugs. I hope everyone understands ^_^
