@@ -14,3 +14,7 @@ PREVIEW VERSION 4.5 UPDATE:
 
  
 This is a tool I quickly coded so there will be many bugs. I hope everyone understands ^_^
+
+
+
+NOTE: As of version 4.5, this tool is no longer updated
